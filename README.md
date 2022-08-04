@@ -3,6 +3,8 @@
 - 🔭 Atualmente procuro trabalhar com frontend e/ou mobile 
 - 🌱 Estudando com foco em Java para Android, Java Spring Boot e Typescript
 
+![center](https://komarev.com/ghpvc/?username=arthurmdros&color=blue&style=for-the-badge&label=visitas)
+
 <div align="center">
   <a href="https://github.com/arthurmdros">
     
@@ -15,14 +17,10 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
   <img align="center" alt="Java" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
+  
 </p>
   
   ##
- 
-<p align="center">
-    <a href="https://github.com/arthurmdros" target="_blank"><img alt="arthurmdros" src="https://badges.pufler.dev/visits/arthurmdros/arthurmdros?logo=GitHub&label=Visits&color=success&logoColor=white&style=flat-square"/></a>
-</p>
-
 <p align="center">   
   <a href="https://instagram.com/_arthurmdros" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/bMTWWx8t" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>   
